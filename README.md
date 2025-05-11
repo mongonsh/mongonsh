@@ -63,8 +63,8 @@ I strive to **transform education through technology**, build **meaningful syste
 
 ## 🤝 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mungunshagai) *(optional link)*
-- 🧠 [My Blog](https://metaverse-mind-ai.vercel.app/) *(add if ready!)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/mungunshagai-tumurbaatar) 
+- 🧠 [My Blog](https://metaverse-mind-ai.vercel.app/)
 - ✉️ Email: mungunshagai.tb@gmail.com
 
 ---
