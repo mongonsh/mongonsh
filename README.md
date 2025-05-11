@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Mungun Shagai 👩‍💻
+# 👋 Hello World! I'm Mungunshagai(ムングー) 👩‍💻
 
 🌍 Tokyo-based Mongolian 🇲🇳 | 👩‍🏫 Software Engineer @ License Academy  
 🧠 Passionate about **EdTech**, **Clean Architecture**, and **AI systems**  
